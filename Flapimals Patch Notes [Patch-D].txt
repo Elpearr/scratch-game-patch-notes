@@ -1,0 +1,10 @@
+Flapimals!
+
+Patch-D (08/09/2023) - fixed the game start bug thing, added character chooser
+
+Patch-C (27/08/2023) - hopefully fixed the freezing/crashing bug
+
+Patch-B (26/08/2023) - added the iconic "Elpear" flash before starting.
+
+Patch-A (26/08/2023) - fixed the game crashing bugs, added goofy Flapimals logo (I used Aseprite)
+Initial Upload (26/08/2023) - riddled with game crashing bugs

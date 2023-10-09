@@ -1,0 +1,17 @@
+Driving Test Patch Notes
+
+Patch-c (9/10/2023)
+- Less lag
+- Added some special endings
+- More Settings settings
+- Click the settings button while holding space :D
+
+Patch-b (8/10/2023)
+-Boid simulator for the title screen
+-Added some accessability settings in Settings
+
+Patch-a (4/10/2023)
+- uploaded the game (7 levels)
+- made thumbnail (very cool)
+- added secret dialogue for if you don't crash 
+

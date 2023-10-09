@@ -1,0 +1,23 @@
+RPG Combat Boss
+
+★ 8th September 2023
+• Fixed bug which showed more player messages than necessary
+
+★ 5th September 2023
+• Added a shameless plug for Elpear's Game Garage
+• New "No MP" message
+• Fixed you being able to use spells even when at 0 MP
+• Added particles for Anger Attacks
+• Added second heal sound (i forgor)
+
+★ 3rd September 2023
+• Added an AI info Doc under the "sprites" sprite for people interested in the AI behaviour
+• Nightmare Mode tweaks 
+• Gave King Erm Akchually a cool outfit for Nightmare Mode
+• QOL additions
+• Bug fixes
+
+★ 2nd September 2023
+• Release Day
+• Added difficulty settings (custom coming soon)
+• Added attack increase button
